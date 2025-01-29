@@ -2,7 +2,8 @@
   <h1>Hi there, I'm Pragati 👋</h1>
   <p>
     I'm a non chalant CSE student who loves Astroscience.
-    I enjoy contributing to open-source projects and building cool stuff.
+    I enjoy being clairvoyant.
+    
   </p>
   
   <h2>🚀 About Me</h2>
