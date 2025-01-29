@@ -1,4 +1,4 @@
-<div align="ljust" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+  <div align="ljust" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
   <h1>Hi there, I'm Pragati 👋</h1>
   <p>
     I'm a non chalant CSE student who loves Astroscience.
