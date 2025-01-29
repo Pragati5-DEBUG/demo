@@ -10,7 +10,7 @@
   <ul>
     <li>🌱 Currently learning:HOW TO ENJOY LIFE</li>
     <li>💡 Interested in: <strong>[SOLIDITY]</strong></li>
-    <li>📫 How to reach me: <a><href="pragativ005@gmail.com"</a></li>
+    <li>📫 How to reach me:<a href="mailto:your.email@example.com">pragativ005@gmail.com</a></li>
   </ul>
 
   <h2>📌 Connect with Me</h2>
